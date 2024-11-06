@@ -1,0 +1,12 @@
+.text-primary {
+    color: #2e0a57;
+    font-size: 2em;
+    font-weight: bold;
+  }
+  .text-secondary {
+    color: #bfa35a;
+    font-size: 1.8em;
+  }
+  .text-muted {
+    color: #6c757d;
+  }
